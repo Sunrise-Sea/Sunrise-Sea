@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sunrise-Sea
 - 1️⃣4️⃣ I’m 14 years old
+- I'm 18 now. It's 2026. I completely failed at what I wanted myself to become
 - 👀 I’m interested in python and c++
 - 🌱 I’m currently learning JavaScript
 <!---
